@@ -7,7 +7,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/tjfoc/gmsm/sm2"
+	"github.com/jxu86/gmsm/sm2"
 	"github.com/tjfoc/gmtls"
 	"github.com/tjfoc/gmtls/gmcredentials/echo"
 	"golang.org/x/net/context"
