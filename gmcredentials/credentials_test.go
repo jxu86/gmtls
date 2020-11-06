@@ -8,8 +8,8 @@ import (
 	"testing"
 
 	"github.com/jxu86/gmsm/sm2"
-	"github.com/tjfoc/gmtls"
-	"github.com/tjfoc/gmtls/gmcredentials/echo"
+	"github.com/jxu86/gmtls"
+	"github.com/jxu86/gmtls/gmcredentials/echo"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 )

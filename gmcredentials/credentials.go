@@ -23,7 +23,7 @@ import (
 	"strings"
 
 	"github.com/jxu86/gmsm/sm2"
-	"github.com/tjfoc/gmtls"
+	"github.com/jxu86/gmtls"
 
 	"google.golang.org/grpc/credentials"
 
